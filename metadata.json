@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS OPS — Geospatial Control Center",
+  "description": "Real-Time Operations & Geospatial Control Center for fleet monitoring, task dispatch, barcode telemetry, and field logistics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
